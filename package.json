@@ -1,0 +1,18 @@
+{
+  "name": "vuepress-blog",
+  "version": "1.0.0",
+  "description": "vuepress驱动的博客项目",
+  "main": "index.js",
+  "scripts": {
+    "start": "vuepress dev docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vuepress"
+  ],
+  "author": "1435409156@qq.com",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.5.4"
+  }
+}
