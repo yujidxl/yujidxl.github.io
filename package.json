@@ -1,19 +1,17 @@
 {
-  "name": "vuepress-blog",
+  "name": "yuji-sky",
   "version": "1.0.0",
-  "description": "vuepress驱动的博客项目",
-  "main": "index.js",
+  "author": "dengxiaolong",
   "scripts": {
-    "start": "vuepress dev docs",
-    "build": "vuepress build docs",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "vuepress dev .",
+    "build": "vuepress build ."
   },
-  "keywords": [
-    "vuepress"
-  ],
-  "author": "1435409156@qq.com",
-  "license": "ISC",
   "devDependencies": {
-    "vuepress": "^1.5.4"
-  }
+    "vuepress": "1.5.0",
+    "vuepress-theme-reco": "1.5.5"
+  },
+  "dependencies": {
+    "vue-class-component": "^7.2.3"
+  },
+  "description": "每天小记"
 }
