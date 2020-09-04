@@ -4,7 +4,7 @@ date: 2020-09-04
 tags:
  - git
 categories: 
- - Git
+ - git
 ---
 ## 查看
 1. 查看系统配置

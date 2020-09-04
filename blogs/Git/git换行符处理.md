@@ -4,7 +4,7 @@ date: 2020-09-04
 tags:
  - git
 categories: 
- - Git
+ - git
 ---
 **windows**: CR回车 LF换行 CRLF \r\n
 <br />**linux|unix**: LF \n

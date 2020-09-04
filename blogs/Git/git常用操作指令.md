@@ -4,7 +4,7 @@ date: 2020-09-04
 tags:
  - git
 categories: 
- - Git
+ - git
 ---
 1. 查看远程仓库
 ``` bash

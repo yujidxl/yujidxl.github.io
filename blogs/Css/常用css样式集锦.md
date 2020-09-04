@@ -4,7 +4,7 @@ date: 2020-09-04
 tags:
  - css
 categories: 
- - Css
+ - css
 ---
 1. 普通适配方案
 ``` css
