@@ -4,7 +4,8 @@
   "author": "dengxiaolong",
   "scripts": {
     "start": "vuepress dev .",
-    "build": "vuepress build ."
+    "build": "vuepress build .",
+    "deploy": "source ./deploy.sh"
   },
   "devDependencies": {
     "vuepress": "1.5.0",
