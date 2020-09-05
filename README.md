@@ -1,18 +1,18 @@
 ---
 home: true
-heroText: 雨季下的tian空
-tagline: 湿润的空气总是让人神清气爽！
+heroText: null
+tagline: null
 heroImage: /sky.jpg
 heroImageStyle: {
-  maxWidth: '600px',
+  maxWidth: '500px',
   width: '100%',
   display: block,
-  margin: '4rem auto 2rem',
+  margin: '3rem auto 2rem',
   background: '#fff',
   borderRadius: '1rem',
 }
 bgImageStyle: {
-  height: '500px'
+  height: '600px'
 }
 isShowTitleInHome: false
 actionText: Guide
