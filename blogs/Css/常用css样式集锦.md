@@ -53,7 +53,7 @@ white-space: normal;
 ```
 - 不换行
 ``` css
-hite-space: nowrap;
+white-space: nowrap;
 ```
 - 英文或数字的换行
 ``` css
