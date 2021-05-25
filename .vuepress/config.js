@@ -1,6 +1,6 @@
 module.exports = {
-  title: "雨季sky",
-  description: "湿润的空气总是让人神清气爽！",
+  title: "雨季",
+  description: "hello， welcome to my world~",
   dest: "public",
   head: [
     ["link", { rel: "icon", href: "/favicon.ico" }],

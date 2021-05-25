@@ -19,7 +19,7 @@ categories:
 
 如下图所示：
 
-![avatar](https://cdn.nlark.com/yuque/0/2020/jpeg/2169168/1596549791372-5ed5f54d-76c4-466f-860c-53c1edea8193.jpeg)
+![avatar](/img1.jpeg)
 <br />释义： 只要主线程空了，就会去读取"任务队列"，这就是JavaScript的运行机制。这个过程会不断重复。
 需要注意的是，setTimeout()只是将事件插入了"任务队列"，必须等到当前代码（执行栈）执行完，主线程才会去执行它指定的回调函数。要是当前代码耗时很长，有可能要等很久，所以并没有办法保证，回调函数一定会在setTimeout()指定的时间执行。（但是估计一般我们的业务也碰不上这种情况）
 
@@ -40,7 +40,7 @@ categories:
 ::: tip
 3. 浏览器的event loop：
 :::
-![avator](https://cdn.nlark.com/yuque/0/2020/png/2169168/1596463911097-46f6dd4f-1569-407c-b5b0-58673259b924.png)
+![avator](/img2.png)
 #### 归纳一下：
 - 宏队列macrotask一次只从队列中取一个任务执行，执行完后就去执行微任务队列中的任务；
 - 微任务队列中所有的任务都会被依次取出来执行，直到microtask queue为空；
