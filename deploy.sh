@@ -13,8 +13,8 @@ cd public
 # echo 'www.example.com' > CNAME
 
 git init
-git add -A
-git commit -m 'deploy'
+git add .
+git commit -am 'deploy'
 
 # 如果发布到 https://<USERNAME>.github.io
 git push -f https://github.com/yujidxl/yujidxl.github.io.git master
