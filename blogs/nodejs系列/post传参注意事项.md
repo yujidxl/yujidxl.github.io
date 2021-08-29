@@ -2,9 +2,9 @@
 title: post传参注意事项
 date: 2021-02-19
 tags:
-  - nodejs
+  - nodejs系列
 categories:
-  - nodejs
+  - nodejs系列
 ---
 
 1. formdata 类型参数传递

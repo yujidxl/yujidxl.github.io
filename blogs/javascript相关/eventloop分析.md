@@ -2,9 +2,9 @@
 title: event loop分析
 date: 2020-09-04
 tags:
- - js
+ - javascript
 categories: 
- - js
+ - javascript
 ---
 ## javascript的单线程
 1. 首先我们思考一个问题，我们或多或少听说过javascript是单线程的。但是你知道它为什么会被设计成单线程的吗？那么让我们来了解一下为什么javascript会被设计成一门单线程的语言？

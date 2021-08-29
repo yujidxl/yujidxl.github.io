@@ -2,9 +2,9 @@
 title: css属性之touch-action
 date: 2020-09-04
 tags:
- - css
+ - 样式相关
 categories: 
- - css
+ - 样式相关
 ---
 ## 简要描述
  用于设置触摸屏用户如何操纵元素的区域(例如，浏览器内置的缩放功能)。

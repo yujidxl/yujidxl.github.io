@@ -2,9 +2,9 @@
 title: vue3.0响应式原理
 date: 2020-09-04
 tags:
- - js
+ - javascript
 categories: 
- - js
+ - javascript
 ---
 ## 时间史
 在`vue2.0`中使用的`Object.defineProperty`或者`Object.defineProperties`，但是到`3.0`时vue使用`proxy`，此api没有shame方案，全看浏览器支持，所以如果你需要适配一些低版本的浏览器就需要三思而后行了。

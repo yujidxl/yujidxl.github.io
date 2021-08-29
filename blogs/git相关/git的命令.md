@@ -2,9 +2,9 @@
 title: git的配置
 date: 2020-09-04
 tags:
- - git
+ - git相关
 categories: 
- - git
+ - git相关
 ---
 ## 查看
 1. 查看系统配置

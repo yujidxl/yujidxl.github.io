@@ -2,9 +2,9 @@
 title: git常用操作指令
 date: 2020-09-04
 tags:
- - git
+ - git相关
 categories: 
- - git
+ - git相关
 ---
 1. 查看远程仓库
 ``` bash
