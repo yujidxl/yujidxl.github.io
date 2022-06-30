@@ -80,7 +80,7 @@ categories:
 3. 服务器公钥放在服务器的`数字证书`之中。
 
 ### 数字证书是什么
-![avator](/cerficate.awebp)
+![avator](/https.awebp)
 
 #### session的恢复
 + 握手阶段用来建立SSL连接。如果出于某种原因，对话中断，就需要重新握手。
